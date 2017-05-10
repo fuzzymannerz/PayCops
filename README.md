@@ -21,9 +21,10 @@ Settings are at the top of both _client.lua_ and _server.lua_.
 
 #### server.lua Settings
 * **MySQL Database settings** - Self explanatory.
-* **minSalary = _int_** - The lowest possible paycheck. _(Default is 450)_
-* **maxSalary = _int_** - The maximum possible paycheck. _(Default is 2500)_
-**Salary will be a random number between _minSalary_ and _maxSalary_ amounts.**
+* `minSalary = int` - The lowest possible paycheck. _(Default is 450)_
+* `maxSalary = int` - The maximum possible paycheck. _(Default is 2500)_
+
+**Salary will be a random number between `minSalary` and `maxSalary` amounts.**
 
 #### client.lua Settings
-* **paytime = _int_** - The amount of time (in minutes) between each paycheck. _(Default is 10)_
+* `paytime = int` - The amount of time (in minutes) between each paycheck. _(Default is 10)_
