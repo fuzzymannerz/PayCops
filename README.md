@@ -4,6 +4,7 @@
 ![Screenshot](https://forum.fivem.net/uploads/default/original/2X/4/435cc8b77cf5802557a7c4d39c80a501b94662c2.png)
 
 ### Requirements
+* [FiveM](https://fivem.net)
 * [CopsFiveM](https://forum.fivem.net/t/release-cops-fivem-v1-0-1/17460/8) (Lite Version) _(and its requirements, obviously)_
 
 ### Installation
