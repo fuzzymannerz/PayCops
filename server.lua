@@ -40,7 +40,7 @@ AddEventHandler("pc:verifycop", function()
     copcheck(player)
     if (copresult == true) then
     user:addMoney((salary))
-    TriggerClientEvent("es_freeroam:notify", source, "CHAR_CALL911", 1, "LSPD HQ", false, "Police officer salary recieved: ~g~~b~$" .. salary .. "~w~.")
+    TriggerClientEvent("es_freeroam:notify", source, "CHAR_CALL911", 1, "LSPD HQ", false, "Police officer salary received: ~g~~b~$" .. salary .. "~w~.")
     end
   end)
 
